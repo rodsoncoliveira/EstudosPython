@@ -8,7 +8,7 @@ import pandas as pd
 import xmltodict
 
 caminho_pasta = 'C:/NotasXML/'
-arquivo_nota = '23240106147451001961550010002889461718548795.xml'
+arquivo_nota = '10936_941_190768.xml'
 caminho_NFE = caminho_pasta + arquivo_nota
 
 # Lendo o arquivo xml
